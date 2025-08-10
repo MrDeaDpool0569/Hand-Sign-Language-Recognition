@@ -1,2 +1,2 @@
-# Hand-Sign-Language-Recognition
-Hand sign language recognition uses computer vision and machine learning to automatically identify and translate hand gestures from sign language into text or speech, helping bridge communication gaps between signers and non-signers. Though this projects only detects some specific signs i will add more in future
+<br> ❗ _️**This is modified version of the [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe). I have retrained the model and created my own dataset**_ ❗
+<br> 
